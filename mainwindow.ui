@@ -114,8 +114,8 @@
    <addaction name="actionPaste"/>
    <addaction name="separator"/>
    <addaction name="actionLeft"/>
-   <addaction name="actionRight"/>
    <addaction name="actionCenter"/>
+   <addaction name="actionRight"/>
    <addaction name="actionJustify"/>
    <addaction name="actionFont"/>
    <addaction name="actionColor"/>
